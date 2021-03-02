@@ -14,6 +14,14 @@ The last command runs the algorithm on the MNIST dataset with 2 centres. In orde
 
 The full implementation of the algorithm resides in `ours.h`.
 
+## MNIST Dataset
+
+Before running the MNIST dataset, it is first necessary to place the dataset file at the root of this repo. The MNIST dataset can be found at the following link: http://yann.lecun.com/exdb/mnist/. Only the `train-images-idx3-ubyte.gz` file is needed from this website. Place the downloaded file as is at the root of this repo (in the same directory as `ours.cpp`), and simply run the command from above (`./a.out MNIST 2`) in order to run an experiment on the MNIST dataset, where `a.out` is of course the binary executable file that results from compiling `our_reader.cpp`.
+
+## Synthetic Dataset
+
+Nothing needs to be done for the synthetic dataset as the dataset used in the paper is generated at run time using the same seed.
+
 ## How to use
 In order to run our code, first create a dataset of type `std::vector<std::vector<double>*>` where each element is a datapoint. Next, construct an instance of the class PrivateKMeans. Before you call any method, set the field `FULL_RANGE` within the class to specify the diameter of the dataset. Once the field `FULL_RANGE` has been specified and instantiated with the appropriate value for your dataset, call the method `clustering(...)` which takes three parameters: the dataset in the form of a vector of vector points (the aforementioned type), the privacy parameter, and the number of centres. The function will return a pointer to a class called `Results` which simply holds two fields; the loss of the algorithm and an `unordered_map` mapping a centre to the list of datapoints assigned to it. Below is some sample code illustrating the instructions above.
 
