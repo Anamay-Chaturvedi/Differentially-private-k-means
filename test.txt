@@ -1,0 +1,898 @@
+      - SEED: -1275199257
+------------------------------------------------------ 2 CENTERS ------------------------------------------------------
+MNIST
+NEW_DIM: 5
+   TRANSFORMING DATA
+   FINISHED JL MATRIX
+    Finding Candidate Centers with radius, epsilon: 0.00745356, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.0149071, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.0298142, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.0596285, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.119257, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.238514, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.477028, 0.00419406
+    ASSEMBLING D''
+    RUNNING LLOYDS ON D'', SIZE: 12
+WLLOYD FINISHED 
+FINDER SIZE 2
+  BEFORE LLOYDS LOSS: 2.04958e+11
+BEGINNING 1 ROUNDS OF LLOYD 60000
+cleared
+Reassigned
+recovered
+
+---------------------------OUR LOSS: 2.00212e+11
+ROUND 0 OF LLOYDS
+ROUND 1 OF LLOYDS
+ROUND 2 OF LLOYDS
+ROUND 3 OF LLOYDS
+ROUND 4 OF LLOYDS
+ROUND 5 OF LLOYDS
+ROUND 6 OF LLOYDS
+ROUND 7 OF LLOYDS
+ROUND 8 OF LLOYDS
+ROUND 9 OF LLOYDS
+ROUND 10 OF LLOYDS
+---------------------------LLOYDS LOSS: 1.92525e+11
+      - SEED: -33577401
+------------------------------------------------------ 2 CENTERS ------------------------------------------------------
+MNIST
+NEW_DIM: 5
+   TRANSFORMING DATA
+   FINISHED JL MATRIX
+    Finding Candidate Centers with radius, epsilon: 0.00745356, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.0149071, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.0298142, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.0596285, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.119257, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.238514, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.477028, 0.00419406
+    ASSEMBLING D''
+    RUNNING LLOYDS ON D'', SIZE: 13
+WLLOYD FINISHED 
+FINDER SIZE 2
+  BEFORE LLOYDS LOSS: 2.01382e+11
+BEGINNING 1 ROUNDS OF LLOYD 60000
+cleared
+Reassigned
+recovered
+
+---------------------------OUR LOSS: 1.95282e+11
+ROUND 0 OF LLOYDS
+ROUND 1 OF LLOYDS
+ROUND 2 OF LLOYDS
+ROUND 3 OF LLOYDS
+ROUND 4 OF LLOYDS
+ROUND 5 OF LLOYDS
+ROUND 6 OF LLOYDS
+ROUND 7 OF LLOYDS
+ROUND 8 OF LLOYDS
+ROUND 9 OF LLOYDS
+ROUND 10 OF LLOYDS
+---------------------------LLOYDS LOSS: 1.92568e+11
+      - SEED: 1142274135
+------------------------------------------------------ 2 CENTERS ------------------------------------------------------
+MNIST
+NEW_DIM: 5
+   TRANSFORMING DATA
+   FINISHED JL MATRIX
+    Finding Candidate Centers with radius, epsilon: 0.00745356, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.0149071, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.0298142, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.0596285, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.119257, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.238514, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.477028, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.954056, 0.00419406
+    ASSEMBLING D''
+    RUNNING LLOYDS ON D'', SIZE: 11
+WLLOYD FINISHED 
+FINDER SIZE 2
+  BEFORE LLOYDS LOSS: 2.03425e+11
+BEGINNING 1 ROUNDS OF LLOYD 60000
+cleared
+Reassigned
+recovered
+
+---------------------------OUR LOSS: 1.9636e+11
+ROUND 0 OF LLOYDS
+ROUND 1 OF LLOYDS
+ROUND 2 OF LLOYDS
+ROUND 3 OF LLOYDS
+ROUND 4 OF LLOYDS
+ROUND 5 OF LLOYDS
+ROUND 6 OF LLOYDS
+ROUND 7 OF LLOYDS
+ROUND 8 OF LLOYDS
+ROUND 9 OF LLOYDS
+ROUND 10 OF LLOYDS
+---------------------------LLOYDS LOSS: 1.92528e+11
+      - SEED: -1751159768
+------------------------------------------------------ 2 CENTERS ------------------------------------------------------
+MNIST
+NEW_DIM: 5
+   TRANSFORMING DATA
+   FINISHED JL MATRIX
+    Finding Candidate Centers with radius, epsilon: 0.00745356, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.0149071, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.0298142, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.0596285, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.119257, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.238514, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.477028, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.954056, 0.00419406
+    ASSEMBLING D''
+    RUNNING LLOYDS ON D'', SIZE: 12
+WLLOYD FINISHED 
+FINDER SIZE 2
+  BEFORE LLOYDS LOSS: 1.98816e+11
+BEGINNING 1 ROUNDS OF LLOYD 60000
+cleared
+Reassigned
+recovered
+
+---------------------------OUR LOSS: 1.95031e+11
+ROUND 0 OF LLOYDS
+ROUND 1 OF LLOYDS
+ROUND 2 OF LLOYDS
+ROUND 3 OF LLOYDS
+ROUND 4 OF LLOYDS
+ROUND 5 OF LLOYDS
+ROUND 6 OF LLOYDS
+ROUND 7 OF LLOYDS
+ROUND 8 OF LLOYDS
+ROUND 9 OF LLOYDS
+ROUND 10 OF LLOYDS
+---------------------------LLOYDS LOSS: 1.92548e+11
+      - SEED: -649068103
+------------------------------------------------------ 2 CENTERS ------------------------------------------------------
+MNIST
+NEW_DIM: 5
+   TRANSFORMING DATA
+   FINISHED JL MATRIX
+    Finding Candidate Centers with radius, epsilon: 0.00745356, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.0149071, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.0298142, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.0596285, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.119257, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.238514, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.477028, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.954056, 0.00419406
+    ASSEMBLING D''
+    RUNNING LLOYDS ON D'', SIZE: 14
+WLLOYD FINISHED 
+FINDER SIZE 2
+  BEFORE LLOYDS LOSS: 2.02975e+11
+BEGINNING 1 ROUNDS OF LLOYD 60000
+cleared
+Reassigned
+recovered
+
+---------------------------OUR LOSS: 1.95691e+11
+ROUND 0 OF LLOYDS
+ROUND 1 OF LLOYDS
+ROUND 2 OF LLOYDS
+ROUND 3 OF LLOYDS
+ROUND 4 OF LLOYDS
+ROUND 5 OF LLOYDS
+ROUND 6 OF LLOYDS
+ROUND 7 OF LLOYDS
+ROUND 8 OF LLOYDS
+ROUND 9 OF LLOYDS
+ROUND 10 OF LLOYDS
+---------------------------LLOYDS LOSS: 1.92539e+11
+      - SEED: 1190007259
+------------------------------------------------------ 6 CENTERS ------------------------------------------------------
+MNIST
+NEW_DIM: 5
+   TRANSFORMING DATA
+   FINISHED JL MATRIX
+    Finding Candidate Centers with radius, epsilon: 0.00745356, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.0149071, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.0298142, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.0596285, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.119257, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.238514, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.477028, 0.00419406
+    ASSEMBLING D''
+    RUNNING LLOYDS ON D'', SIZE: 32
+WLLOYD FINISHED 
+FINDER SIZE 4
+  BEFORE LLOYDS LOSS: 2.01477e+11
+BEGINNING 1 ROUNDS OF LLOYD 60000
+cleared
+Reassigned
+recovered
+
+---------------------------OUR LOSS: 1.88885e+11
+ROUND 0 OF LLOYDS
+ROUND 1 OF LLOYDS
+ROUND 2 OF LLOYDS
+ROUND 3 OF LLOYDS
+ROUND 4 OF LLOYDS
+ROUND 5 OF LLOYDS
+ROUND 6 OF LLOYDS
+ROUND 7 OF LLOYDS
+ROUND 8 OF LLOYDS
+ROUND 9 OF LLOYDS
+ROUND 10 OF LLOYDS
+---------------------------LLOYDS LOSS: 1.66607e+11
+      - SEED: 1179307901
+------------------------------------------------------ 6 CENTERS ------------------------------------------------------
+MNIST
+NEW_DIM: 5
+   TRANSFORMING DATA
+   FINISHED JL MATRIX
+    Finding Candidate Centers with radius, epsilon: 0.00745356, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.0149071, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.0298142, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.0596285, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.119257, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.238514, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.477028, 0.00419406
+    ASSEMBLING D''
+    RUNNING LLOYDS ON D'', SIZE: 35
+WLLOYD FINISHED 
+FINDER SIZE 6
+  BEFORE LLOYDS LOSS: 2.01115e+11
+BEGINNING 1 ROUNDS OF LLOYD 60000
+cleared
+Reassigned
+recovered
+
+---------------------------OUR LOSS: 1.82775e+11
+ROUND 0 OF LLOYDS
+ROUND 1 OF LLOYDS
+ROUND 2 OF LLOYDS
+ROUND 3 OF LLOYDS
+ROUND 4 OF LLOYDS
+ROUND 5 OF LLOYDS
+ROUND 6 OF LLOYDS
+ROUND 7 OF LLOYDS
+ROUND 8 OF LLOYDS
+ROUND 9 OF LLOYDS
+ROUND 10 OF LLOYDS
+---------------------------LLOYDS LOSS: 1.68442e+11
+      - SEED: -993890773
+------------------------------------------------------ 6 CENTERS ------------------------------------------------------
+MNIST
+NEW_DIM: 5
+   TRANSFORMING DATA
+   FINISHED JL MATRIX
+    Finding Candidate Centers with radius, epsilon: 0.00745356, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.0149071, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.0298142, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.0596285, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.119257, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.238514, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.477028, 0.00419406
+    ASSEMBLING D''
+    RUNNING LLOYDS ON D'', SIZE: 36
+WLLOYD FINISHED 
+FINDER SIZE 6
+  BEFORE LLOYDS LOSS: 2.90892e+11
+BEGINNING 1 ROUNDS OF LLOYD 60000
+cleared
+Reassigned
+recovered
+
+---------------------------OUR LOSS: 1.91699e+11
+ROUND 0 OF LLOYDS
+ROUND 1 OF LLOYDS
+ROUND 2 OF LLOYDS
+ROUND 3 OF LLOYDS
+ROUND 4 OF LLOYDS
+ROUND 5 OF LLOYDS
+ROUND 6 OF LLOYDS
+ROUND 7 OF LLOYDS
+ROUND 8 OF LLOYDS
+ROUND 9 OF LLOYDS
+ROUND 10 OF LLOYDS
+---------------------------LLOYDS LOSS: 1.65897e+11
+      - SEED: -1728773375
+------------------------------------------------------ 6 CENTERS ------------------------------------------------------
+MNIST
+NEW_DIM: 5
+   TRANSFORMING DATA
+   FINISHED JL MATRIX
+    Finding Candidate Centers with radius, epsilon: 0.00745356, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.0149071, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.0298142, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.0596285, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.119257, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.238514, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.477028, 0.00419406
+    ASSEMBLING D''
+    RUNNING LLOYDS ON D'', SIZE: 36
+WLLOYD FINISHED 
+FINDER SIZE 6
+  BEFORE LLOYDS LOSS: 2.0245e+11
+BEGINNING 1 ROUNDS OF LLOYD 60000
+cleared
+Reassigned
+recovered
+
+---------------------------OUR LOSS: 1.88062e+11
+ROUND 0 OF LLOYDS
+ROUND 1 OF LLOYDS
+ROUND 2 OF LLOYDS
+ROUND 3 OF LLOYDS
+ROUND 4 OF LLOYDS
+ROUND 5 OF LLOYDS
+ROUND 6 OF LLOYDS
+ROUND 7 OF LLOYDS
+ROUND 8 OF LLOYDS
+ROUND 9 OF LLOYDS
+ROUND 10 OF LLOYDS
+---------------------------LLOYDS LOSS: 1.66033e+11
+      - SEED: -2100568205
+------------------------------------------------------ 6 CENTERS ------------------------------------------------------
+MNIST
+NEW_DIM: 5
+   TRANSFORMING DATA
+   FINISHED JL MATRIX
+    Finding Candidate Centers with radius, epsilon: 0.00745356, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.0149071, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.0298142, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.0596285, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.119257, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.238514, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.477028, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.954056, 0.00419406
+    ASSEMBLING D''
+    RUNNING LLOYDS ON D'', SIZE: 39
+WLLOYD FINISHED 
+FINDER SIZE 6
+  BEFORE LLOYDS LOSS: 2.02709e+11
+BEGINNING 1 ROUNDS OF LLOYD 60000
+cleared
+Reassigned
+recovered
+
+---------------------------OUR LOSS: 1.85755e+11
+ROUND 0 OF LLOYDS
+ROUND 1 OF LLOYDS
+ROUND 2 OF LLOYDS
+ROUND 3 OF LLOYDS
+ROUND 4 OF LLOYDS
+ROUND 5 OF LLOYDS
+ROUND 6 OF LLOYDS
+ROUND 7 OF LLOYDS
+ROUND 8 OF LLOYDS
+ROUND 9 OF LLOYDS
+ROUND 10 OF LLOYDS
+---------------------------LLOYDS LOSS: 1.68435e+11
+      - SEED: -1478143666
+------------------------------------------------------ 10 CENTERS ------------------------------------------------------
+MNIST
+NEW_DIM: 5
+   TRANSFORMING DATA
+   FINISHED JL MATRIX
+    Finding Candidate Centers with radius, epsilon: 0.00745356, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.0149071, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.0298142, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.0596285, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.119257, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.238514, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.477028, 0.00419406
+    ASSEMBLING D''
+    RUNNING LLOYDS ON D'', SIZE: 55
+WLLOYD FINISHED 
+FINDER SIZE 9
+  BEFORE LLOYDS LOSS: 9.46086e+11
+BEGINNING 1 ROUNDS OF LLOYD 60000
+cleared
+Reassigned
+recovered
+
+---------------------------OUR LOSS: 1.86268e+11
+ROUND 0 OF LLOYDS
+ROUND 1 OF LLOYDS
+ROUND 2 OF LLOYDS
+ROUND 3 OF LLOYDS
+ROUND 4 OF LLOYDS
+ROUND 5 OF LLOYDS
+ROUND 6 OF LLOYDS
+ROUND 7 OF LLOYDS
+ROUND 8 OF LLOYDS
+ROUND 9 OF LLOYDS
+ROUND 10 OF LLOYDS
+---------------------------LLOYDS LOSS: 1.54117e+11
+      - SEED: -1935050123
+------------------------------------------------------ 10 CENTERS ------------------------------------------------------
+MNIST
+NEW_DIM: 5
+   TRANSFORMING DATA
+   FINISHED JL MATRIX
+    Finding Candidate Centers with radius, epsilon: 0.00745356, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.0149071, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.0298142, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.0596285, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.119257, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.238514, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.477028, 0.00419406
+Could not find complement to add
+    ASSEMBLING D''
+    RUNNING LLOYDS ON D'', SIZE: 64
+WLLOYD FINISHED 
+FINDER SIZE 10
+  BEFORE LLOYDS LOSS: 2.15076e+11
+BEGINNING 1 ROUNDS OF LLOYD 60000
+cleared
+Reassigned
+recovered
+
+---------------------------OUR LOSS: 1.92067e+11
+ROUND 0 OF LLOYDS
+ROUND 1 OF LLOYDS
+ROUND 2 OF LLOYDS
+ROUND 3 OF LLOYDS
+ROUND 4 OF LLOYDS
+ROUND 5 OF LLOYDS
+ROUND 6 OF LLOYDS
+ROUND 7 OF LLOYDS
+ROUND 8 OF LLOYDS
+ROUND 9 OF LLOYDS
+ROUND 10 OF LLOYDS
+---------------------------LLOYDS LOSS: 1.53259e+11
+      - SEED: 243641347
+------------------------------------------------------ 10 CENTERS ------------------------------------------------------
+MNIST
+NEW_DIM: 5
+   TRANSFORMING DATA
+   FINISHED JL MATRIX
+    Finding Candidate Centers with radius, epsilon: 0.00745356, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.0149071, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.0298142, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.0596285, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.119257, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.238514, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.477028, 0.00419406
+    ASSEMBLING D''
+    RUNNING LLOYDS ON D'', SIZE: 61
+WLLOYD FINISHED 
+FINDER SIZE 9
+  BEFORE LLOYDS LOSS: 2.15379e+11
+BEGINNING 1 ROUNDS OF LLOYD 60000
+cleared
+Reassigned
+recovered
+
+---------------------------OUR LOSS: 1.82115e+11
+ROUND 0 OF LLOYDS
+ROUND 1 OF LLOYDS
+ROUND 2 OF LLOYDS
+ROUND 3 OF LLOYDS
+ROUND 4 OF LLOYDS
+ROUND 5 OF LLOYDS
+ROUND 6 OF LLOYDS
+ROUND 7 OF LLOYDS
+ROUND 8 OF LLOYDS
+ROUND 9 OF LLOYDS
+ROUND 10 OF LLOYDS
+---------------------------LLOYDS LOSS: 1.53648e+11
+      - SEED: -717994848
+------------------------------------------------------ 10 CENTERS ------------------------------------------------------
+MNIST
+NEW_DIM: 5
+   TRANSFORMING DATA
+   FINISHED JL MATRIX
+    Finding Candidate Centers with radius, epsilon: 0.00745356, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.0149071, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.0298142, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.0596285, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.119257, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.238514, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.477028, 0.00419406
+    ASSEMBLING D''
+    RUNNING LLOYDS ON D'', SIZE: 51
+WLLOYD FINISHED 
+FINDER SIZE 10
+  BEFORE LLOYDS LOSS: 3.77957e+11
+BEGINNING 1 ROUNDS OF LLOYD 60000
+cleared
+Reassigned
+recovered
+
+---------------------------OUR LOSS: 1.86113e+11
+ROUND 0 OF LLOYDS
+ROUND 1 OF LLOYDS
+ROUND 2 OF LLOYDS
+ROUND 3 OF LLOYDS
+ROUND 4 OF LLOYDS
+ROUND 5 OF LLOYDS
+ROUND 6 OF LLOYDS
+ROUND 7 OF LLOYDS
+ROUND 8 OF LLOYDS
+ROUND 9 OF LLOYDS
+ROUND 10 OF LLOYDS
+---------------------------LLOYDS LOSS: 1.53774e+11
+      - SEED: 1726865177
+------------------------------------------------------ 10 CENTERS ------------------------------------------------------
+MNIST
+NEW_DIM: 5
+   TRANSFORMING DATA
+   FINISHED JL MATRIX
+    Finding Candidate Centers with radius, epsilon: 0.00745356, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.0149071, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.0298142, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.0596285, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.119257, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.238514, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.477028, 0.00419406
+    ASSEMBLING D''
+    RUNNING LLOYDS ON D'', SIZE: 60
+WLLOYD FINISHED 
+FINDER SIZE 9
+  BEFORE LLOYDS LOSS: 2.00435e+11
+BEGINNING 1 ROUNDS OF LLOYD 60000
+cleared
+Reassigned
+recovered
+
+---------------------------OUR LOSS: 1.8578e+11
+ROUND 0 OF LLOYDS
+ROUND 1 OF LLOYDS
+ROUND 2 OF LLOYDS
+ROUND 3 OF LLOYDS
+ROUND 4 OF LLOYDS
+ROUND 5 OF LLOYDS
+ROUND 6 OF LLOYDS
+ROUND 7 OF LLOYDS
+ROUND 8 OF LLOYDS
+ROUND 9 OF LLOYDS
+ROUND 10 OF LLOYDS
+---------------------------LLOYDS LOSS: 1.53809e+11
+      - SEED: -1067066861
+------------------------------------------------------ 14 CENTERS ------------------------------------------------------
+MNIST
+NEW_DIM: 5
+   TRANSFORMING DATA
+   FINISHED JL MATRIX
+    Finding Candidate Centers with radius, epsilon: 0.00745356, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.0149071, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.0298142, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.0596285, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.119257, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.238514, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.477028, 0.00419406
+    ASSEMBLING D''
+    RUNNING LLOYDS ON D'', SIZE: 79
+WLLOYD FINISHED 
+FINDER SIZE 14
+  BEFORE LLOYDS LOSS: 2.82606e+11
+BEGINNING 1 ROUNDS OF LLOYD 60000
+cleared
+Reassigned
+recovered
+
+---------------------------OUR LOSS: 1.8805e+11
+ROUND 0 OF LLOYDS
+ROUND 1 OF LLOYDS
+ROUND 2 OF LLOYDS
+ROUND 3 OF LLOYDS
+ROUND 4 OF LLOYDS
+ROUND 5 OF LLOYDS
+ROUND 6 OF LLOYDS
+ROUND 7 OF LLOYDS
+ROUND 8 OF LLOYDS
+ROUND 9 OF LLOYDS
+ROUND 10 OF LLOYDS
+---------------------------LLOYDS LOSS: 1.47198e+11
+      - SEED: 736957324
+------------------------------------------------------ 14 CENTERS ------------------------------------------------------
+MNIST
+NEW_DIM: 5
+   TRANSFORMING DATA
+   FINISHED JL MATRIX
+    Finding Candidate Centers with radius, epsilon: 0.00745356, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.0149071, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.0298142, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.0596285, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.119257, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.238514, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.477028, 0.00419406
+    ASSEMBLING D''
+    RUNNING LLOYDS ON D'', SIZE: 78
+WLLOYD FINISHED 
+FINDER SIZE 13
+  BEFORE LLOYDS LOSS: 2.31153e+11
+BEGINNING 1 ROUNDS OF LLOYD 60000
+cleared
+Reassigned
+recovered
+
+---------------------------OUR LOSS: 1.80534e+11
+ROUND 0 OF LLOYDS
+ROUND 1 OF LLOYDS
+ROUND 2 OF LLOYDS
+ROUND 3 OF LLOYDS
+ROUND 4 OF LLOYDS
+ROUND 5 OF LLOYDS
+ROUND 6 OF LLOYDS
+ROUND 7 OF LLOYDS
+ROUND 8 OF LLOYDS
+ROUND 9 OF LLOYDS
+ROUND 10 OF LLOYDS
+---------------------------LLOYDS LOSS: 1.46048e+11
+      - SEED: 693354997
+------------------------------------------------------ 14 CENTERS ------------------------------------------------------
+MNIST
+NEW_DIM: 5
+   TRANSFORMING DATA
+   FINISHED JL MATRIX
+    Finding Candidate Centers with radius, epsilon: 0.00745356, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.0149071, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.0298142, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.0596285, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.119257, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.238514, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.477028, 0.00419406
+    ASSEMBLING D''
+    RUNNING LLOYDS ON D'', SIZE: 77
+WLLOYD FINISHED 
+FINDER SIZE 12
+  BEFORE LLOYDS LOSS: 2.38243e+11
+BEGINNING 1 ROUNDS OF LLOYD 60000
+cleared
+Reassigned
+recovered
+
+---------------------------OUR LOSS: 1.90697e+11
+ROUND 0 OF LLOYDS
+ROUND 1 OF LLOYDS
+ROUND 2 OF LLOYDS
+ROUND 3 OF LLOYDS
+ROUND 4 OF LLOYDS
+ROUND 5 OF LLOYDS
+ROUND 6 OF LLOYDS
+ROUND 7 OF LLOYDS
+ROUND 8 OF LLOYDS
+ROUND 9 OF LLOYDS
+ROUND 10 OF LLOYDS
+---------------------------LLOYDS LOSS: 1.45851e+11
+      - SEED: -1495497054
+------------------------------------------------------ 14 CENTERS ------------------------------------------------------
+MNIST
+NEW_DIM: 5
+   TRANSFORMING DATA
+   FINISHED JL MATRIX
+    Finding Candidate Centers with radius, epsilon: 0.00745356, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.0149071, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.0298142, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.0596285, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.119257, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.238514, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.477028, 0.00419406
+    ASSEMBLING D''
+    RUNNING LLOYDS ON D'', SIZE: 78
+WLLOYD FINISHED 
+FINDER SIZE 14
+  BEFORE LLOYDS LOSS: 2.66707e+11
+BEGINNING 1 ROUNDS OF LLOYD 60000
+cleared
+Reassigned
+recovered
+
+---------------------------OUR LOSS: 1.89228e+11
+ROUND 0 OF LLOYDS
+ROUND 1 OF LLOYDS
+ROUND 2 OF LLOYDS
+ROUND 3 OF LLOYDS
+ROUND 4 OF LLOYDS
+ROUND 5 OF LLOYDS
+ROUND 6 OF LLOYDS
+ROUND 7 OF LLOYDS
+ROUND 8 OF LLOYDS
+ROUND 9 OF LLOYDS
+ROUND 10 OF LLOYDS
+---------------------------LLOYDS LOSS: 1.46113e+11
+      - SEED: 1108674594
+------------------------------------------------------ 14 CENTERS ------------------------------------------------------
+MNIST
+NEW_DIM: 5
+   TRANSFORMING DATA
+   FINISHED JL MATRIX
+    Finding Candidate Centers with radius, epsilon: 0.00745356, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.0149071, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.0298142, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.0596285, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.119257, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.238514, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.477028, 0.00419406
+    ASSEMBLING D''
+    RUNNING LLOYDS ON D'', SIZE: 84
+WLLOYD FINISHED 
+FINDER SIZE 13
+  BEFORE LLOYDS LOSS: 2.61653e+11
+BEGINNING 1 ROUNDS OF LLOYD 60000
+cleared
+Reassigned
+recovered
+
+---------------------------OUR LOSS: 1.85423e+11
+ROUND 0 OF LLOYDS
+ROUND 1 OF LLOYDS
+ROUND 2 OF LLOYDS
+ROUND 3 OF LLOYDS
+ROUND 4 OF LLOYDS
+ROUND 5 OF LLOYDS
+ROUND 6 OF LLOYDS
+ROUND 7 OF LLOYDS
+ROUND 8 OF LLOYDS
+ROUND 9 OF LLOYDS
+ROUND 10 OF LLOYDS
+---------------------------LLOYDS LOSS: 1.45864e+11
+      - SEED: 661847046
+------------------------------------------------------ 18 CENTERS ------------------------------------------------------
+MNIST
+NEW_DIM: 5
+   TRANSFORMING DATA
+   FINISHED JL MATRIX
+    Finding Candidate Centers with radius, epsilon: 0.00745356, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.0149071, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.0298142, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.0596285, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.119257, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.238514, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.477028, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.954056, 0.00419406
+    ASSEMBLING D''
+    RUNNING LLOYDS ON D'', SIZE: 107
+WLLOYD FINISHED 
+FINDER SIZE 15
+  BEFORE LLOYDS LOSS: 2.83117e+11
+BEGINNING 1 ROUNDS OF LLOYD 60000
+cleared
+Reassigned
+recovered
+
+---------------------------OUR LOSS: 1.89893e+11
+ROUND 0 OF LLOYDS
+ROUND 1 OF LLOYDS
+ROUND 2 OF LLOYDS
+ROUND 3 OF LLOYDS
+ROUND 4 OF LLOYDS
+ROUND 5 OF LLOYDS
+ROUND 6 OF LLOYDS
+ROUND 7 OF LLOYDS
+ROUND 8 OF LLOYDS
+ROUND 9 OF LLOYDS
+ROUND 10 OF LLOYDS
+---------------------------LLOYDS LOSS: 1.40986e+11
+      - SEED: -514502880
+------------------------------------------------------ 18 CENTERS ------------------------------------------------------
+MNIST
+NEW_DIM: 5
+   TRANSFORMING DATA
+   FINISHED JL MATRIX
+    Finding Candidate Centers with radius, epsilon: 0.00745356, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.0149071, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.0298142, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.0596285, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.119257, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.238514, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.477028, 0.00419406
+    ASSEMBLING D''
+    RUNNING LLOYDS ON D'', SIZE: 109
+WLLOYD FINISHED 
+FINDER SIZE 18
+  BEFORE LLOYDS LOSS: 4.39337e+11
+BEGINNING 1 ROUNDS OF LLOYD 60000
+cleared
+Reassigned
+recovered
+
+---------------------------OUR LOSS: 1.87754e+11
+ROUND 0 OF LLOYDS
+ROUND 1 OF LLOYDS
+ROUND 2 OF LLOYDS
+ROUND 3 OF LLOYDS
+ROUND 4 OF LLOYDS
+ROUND 5 OF LLOYDS
+ROUND 6 OF LLOYDS
+ROUND 7 OF LLOYDS
+ROUND 8 OF LLOYDS
+ROUND 9 OF LLOYDS
+ROUND 10 OF LLOYDS
+---------------------------LLOYDS LOSS: 1.40432e+11
+      - SEED: 1927752830
+------------------------------------------------------ 18 CENTERS ------------------------------------------------------
+MNIST
+NEW_DIM: 5
+   TRANSFORMING DATA
+   FINISHED JL MATRIX
+    Finding Candidate Centers with radius, epsilon: 0.00745356, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.0149071, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.0298142, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.0596285, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.119257, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.238514, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.477028, 0.00419406
+    ASSEMBLING D''
+    RUNNING LLOYDS ON D'', SIZE: 108
+WLLOYD FINISHED 
+FINDER SIZE 18
+  BEFORE LLOYDS LOSS: 8.19857e+11
+BEGINNING 1 ROUNDS OF LLOYD 60000
+cleared
+Reassigned
+recovered
+
+---------------------------OUR LOSS: 1.87178e+11
+ROUND 0 OF LLOYDS
+ROUND 1 OF LLOYDS
+ROUND 2 OF LLOYDS
+ROUND 3 OF LLOYDS
+ROUND 4 OF LLOYDS
+ROUND 5 OF LLOYDS
+ROUND 6 OF LLOYDS
+ROUND 7 OF LLOYDS
+ROUND 8 OF LLOYDS
+ROUND 9 OF LLOYDS
+ROUND 10 OF LLOYDS
+---------------------------LLOYDS LOSS: 1.4071e+11
+      - SEED: -731399113
+------------------------------------------------------ 18 CENTERS ------------------------------------------------------
+MNIST
+NEW_DIM: 5
+   TRANSFORMING DATA
+   FINISHED JL MATRIX
+    Finding Candidate Centers with radius, epsilon: 0.00745356, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.0149071, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.0298142, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.0596285, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.119257, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.238514, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.477028, 0.00419406
+    ASSEMBLING D''
+    RUNNING LLOYDS ON D'', SIZE: 104
+WLLOYD FINISHED 
+FINDER SIZE 16
+  BEFORE LLOYDS LOSS: 4.67926e+11
+BEGINNING 1 ROUNDS OF LLOYD 60000
+cleared
+Reassigned
+recovered
+
+---------------------------OUR LOSS: 1.89409e+11
+ROUND 0 OF LLOYDS
+ROUND 1 OF LLOYDS
+ROUND 2 OF LLOYDS
+ROUND 3 OF LLOYDS
+ROUND 4 OF LLOYDS
+ROUND 5 OF LLOYDS
+ROUND 6 OF LLOYDS
+ROUND 7 OF LLOYDS
+ROUND 8 OF LLOYDS
+ROUND 9 OF LLOYDS
+ROUND 10 OF LLOYDS
+---------------------------LLOYDS LOSS: 1.41544e+11
+      - SEED: -1578951622
+------------------------------------------------------ 18 CENTERS ------------------------------------------------------
+MNIST
+NEW_DIM: 5
+   TRANSFORMING DATA
+   FINISHED JL MATRIX
+    Finding Candidate Centers with radius, epsilon: 0.00745356, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.0149071, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.0298142, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.0596285, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.119257, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.238514, 0.00419406
+    Finding Candidate Centers with radius, epsilon: 0.477028, 0.00419406
+    ASSEMBLING D''
+    RUNNING LLOYDS ON D'', SIZE: 108
+WLLOYD FINISHED 
+FINDER SIZE 17
+  BEFORE LLOYDS LOSS: 2.44399e+11
+BEGINNING 1 ROUNDS OF LLOYD 60000
+cleared
+Reassigned
+recovered
+
+---------------------------OUR LOSS: 1.82679e+11
+ROUND 0 OF LLOYDS
+ROUND 1 OF LLOYDS
+ROUND 2 OF LLOYDS
+ROUND 3 OF LLOYDS

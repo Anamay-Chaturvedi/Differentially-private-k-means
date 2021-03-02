@@ -1,0 +1,3 @@
+/Users/arixxu/Documents/gitrepos/private-k-means/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/arixxu/Documents/gitrepos/private-k-means/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/arixxu/Documents/gitrepos/private-k-means/cmake-build-debug/CMakeFiles/our_reader.dir
